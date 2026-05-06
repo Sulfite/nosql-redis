@@ -1,0 +1,4 @@
+
+# Comandos para execução
+- docker compose up -d
+- docker exec -it redis-aula redis-cli
